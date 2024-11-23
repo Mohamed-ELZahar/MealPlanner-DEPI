@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MealPlanner</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click here to login</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="logout">Logout</string>
+    <string name="sign_in_using_Google">Sign In with Google</string>
+    <string name="dailyMeal">Meal of the day</string>
+    <string name="default_web_client_id">Default Web Client ID</string>
+    <string name="meal_of_the_day">Meal of the day</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+
+    <string name="meal_name">Meal Name</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="country">Country</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="video_is_here">Video is here</string>
+    <string name="original_country"><u>Original Country:</u></string>
+    <string name="favourite_meals">Favourite Meals</string>
+    <string name="meals_by_category">Meals by category</string>
+    <string name="meal_name_details">Meal Name</string>
+    <string name="instructions"><u>Instructions:</u></string>
+    <string name="ingredients_title"><u>Ingredients:</u></string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="meals_by_country">Meals by country</string>
+    <string name="country_name">Country Name</string>
+    <string name="measures">Measures</string>
+    <string name="measures_body">measures</string>
+    <string name="by_category">Category</string>
+    <string name="by_ingredient">Ingredient</string>
+    <string name="by_country">Country</string>
+    <string name="measure">measure</string>
+    <string name="ingredient">ingredient</string>
+    <string name="measures_title"><u>Measures:</u></string>
+    <string name="ingredients_snd_measures"><u>Ingredients and Measures:</u></string>
+    <string name="skip">Skip</string>
+    <string name="you_must_sign_in_to_add_and_see_favourite_meals">You must sign in to use this feature</string>
+    <string name="click_to_signup">Click to sign in</string>
+    <string name="calender">Calender</string>
+    <string name="add_to_plan">Add to plan</string>
+    <string name="confirm">Confirm</string>
+    <string name="select_a_day">Select a day</string>
+    <string name="select_meal_type">Select meal type</string>
+    <string name="breakfast">Breakfast:</string>
+    <string name="lunch">Lunch:</string>
+    <string name="dinner">Dinner:</string>
+    <string name="plan_of_the_week"><u>PLan of the week</u></string>
+    <string name="no_meal">No Meal assigned</string>
+    <string name="choose_your_search_criteria">Choose your search criteria</string>
+    <string name="add_to_calendar">Add To Calendar</string>
+
+</resources>
